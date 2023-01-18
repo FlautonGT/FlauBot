@@ -412,7 +412,7 @@ exports.TbJail = (prefix, command) => {
     return `Kirim/Reply Foto/Sticker Dengan Caption ${prefix + command}`
 }
 exports.TbRepo = (prefix, command) => {
-    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *zeeone-ofc* *Alphabot-Md* *v12*`
+    return `Kirim perintah ${prefix + command} *user* *repo* *branch*\n\nExp. ${prefix + command} *Flauton* *FlauBot* *v1*`
 }
 exports.StalkIg = () => {
     return `Masukkan username`
@@ -1743,11 +1743,8 @@ exports.rules = (prefix) => {
 🗯️ Bot tidak atau lambat merespon ?
 ➡️ Mungkin dipengaruhi oleh jaringan, signal, banned oleh Whatsapp dan beberapa asalan.
 
-🗯️ Dimana saya bisa mendapatkan Script dari bot ini ?
-➡️ Script ini bisa kalian dapatkan di YouTube ZEEONE OFC
-
 🗯️ Boleh saya menambah ke grup?
-➡️ Untuk itu tergantung dari owner bot sendiri
+➡️ Kamu harus membeli Premium dulu supaya bisa masuk ke grup kamu.
 
 🗯️ Prefixnya apa ya?
 ➡️ Bot ini menggunakan multi prefix & bisa kamu gunakan tanpa prefix
@@ -1769,14 +1766,13 @@ exports.welcome = () =>{
 ╰❒ 𝖯𝖺𝗍𝗎𝗁𝗂 𝗋𝗎𝗅𝖾𝗌 𝗀𝗋𝗎𝗉 𝗒𝖺 𝗄𝖺k ~`
 }
 exports.leave = () =>{
-	return`Yah kok out 😣 Mental aman kan kak >.<
+	return`Yah kok out 😣 Mampir lagi yaa >.<
 Goodbye`
 }
 exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
-Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://s.id/YouTube-Zeeoneofc
+Code Are Not Ready :(
 `
 }
 exports.tos = (ownernomer) => {
