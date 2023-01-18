@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
-  "version": "1.7.0",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "name": "FlauBot",
+  "version": "1.0",
+  "description": "Private Script of Flauton Whatsapp Bot",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
