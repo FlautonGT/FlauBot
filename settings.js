@@ -13,14 +13,14 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'V12', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api.zeeoneofc.my.id': 'ShzF8tdZ', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
 global.autoread = true // auto read message
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = false
+global.userRegister = true
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
@@ -39,7 +39,7 @@ global.myweb2 = "https://linktr.ee/flauton" //bebas
 global.email = "flauton@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['62887435047326'] //premium user
+global.premium = ['6283817424428'] //premium user
 global.owner = ["6283817424428", "6283172552980"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6283817424428" // nomor wa kalian
 global.ownernomerr = "+628381742442" //nmr wa kalian
@@ -54,7 +54,7 @@ global.typemenu = 'document'
 global.multiplier = 69
 global.limitawal = {
    premium: "10000",
-   free: 100
+   free: 50
 }
 
 global.adventureRPG = 'https://telegra.ph/file/ff94536d69e0f4f3e7b54.jpg'
